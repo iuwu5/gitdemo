@@ -19,7 +19,7 @@ iuwu5@▒▒▒▒▒▒ MINGW64 ~/Desktop/新建文件夹 (2)/learngit (master)
 $ git config --global user.email “40204814@qq.com"  
 ???这两个不应该连在一起吗？我开错应用了？？？  
 后来我才知道我有多憨  
-！[捂脸.jpg](C:\Users\刘泽域\Desktop\gitdemo\捂脸.jpg)  
+！[捂脸.jpg](C:\Users\刘泽域\Desktop\README\README\捂脸.jpg)  
   
 之后在网上看的说TortoiseGit好用，我就去下了一个，下好后弹了好几个窗口，之后Git就不能用了，删了TortoiseGit也不行，我就把Git删了重下了一个  
 然后  
